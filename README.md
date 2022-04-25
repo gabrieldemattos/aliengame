@@ -12,7 +12,7 @@ A ideia é mostrar que podemos construir jogos básicos com o uso de HTML, CSS, 
 - Perderá 1 vida caso bate na nave inimiga, no alien ou o astronauta seja capturado pelo alien.
 - Conforme for ganhando mais pontos, a dificuldade aumentará.
 
-![aliengame](C:\aliengame\aliengame\gif\aliengame.gif)
+![aliengame](https://github.com/gabrieldemattos/aliengame/blob/main/gif/aliengame.gif)
 
 
 
