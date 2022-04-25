@@ -5,8 +5,9 @@ A ideia é mostrar que podemos construir jogos básicos com o uso de HTML, CSS, 
 
 
 
- <h2 align="center">Sobre o jogo e objetivos</h2>
-
+ <h2 align="center">Sobre o jogo e objetivos</h2><br>
+ 
+ <a href="https://aliengame.vercel.app/">Alien Game</a>
 - O jogador possui 3 vidas.
 - Os objetivos são: destruir a nave inimiga, o alien e salvar o astronauta.
 - Perderá 1 vida caso bate na nave inimiga, no alien ou o astronauta seja capturado pelo alien.
