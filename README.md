@@ -1,6 +1,6 @@
 <h1 align="center"> Aliengame </h1>
 
-A partir de bootcamps oferecido pela Digital Innovation One, foi possível criar um jogo básico de nave.<br>
+A partir de bootcamps oferecidos pela Digital Innovation One, foi possível criar um jogo básico de nave.<br>
 A ideia é mostrar que podemos construir jogos básicos com o uso de HTML, CSS, JavaScript e jQuery.
 
 
