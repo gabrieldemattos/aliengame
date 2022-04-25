@@ -5,7 +5,7 @@ A ideia é mostrar que podemos construir jogos básicos com o uso de HTML, CSS, 
 
 
 
-## <h2 align="center">Sobre o jogo e objetivos</h2>
+ <h2 align="center">Sobre o jogo e objetivos</h2>
 
 - O jogador possui 3 vidas.
 - Os objetivos são: destruir a nave inimiga, o alien e salvar o astronauta.
